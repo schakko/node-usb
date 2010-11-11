@@ -1,0 +1,7 @@
+{ "name" : "usb"
+, "version" : "0.0.1"
+, "author" : "schakko <ckl@ecw.de>"
+, "description" : "libusb binding for node"
+, "main" : "./usb.js"
+, "scripts" : { "test" : "node tests/node-usb-test.js" }
+}
