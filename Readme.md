@@ -148,4 +148,4 @@ More information
 =================
  * Christopher Klein <schakkonator[at]googlemail[dot]com>
  * http://twitter.com/schakko
- * http://wap.ecw.de
+ * http://www.schakko.de
